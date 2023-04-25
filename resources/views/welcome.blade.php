@@ -10,6 +10,6 @@
 <body>
     @livewire('dashboard')
     @livewireScripts
-    <h1 class=""></h1>
+    <h1 class="">Ayaw ma commit</h1>
 </body>
 </html>
