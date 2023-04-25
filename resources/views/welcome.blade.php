@@ -10,6 +10,6 @@
 <body>
     @livewire('dashboard')
     @livewireScripts
-    <h1 class="">Kapasadasgod ah</h1>
+    <h1 class="">sdasdas ah</h1>
 </body>
 </html>
