@@ -10,5 +10,6 @@
 <body>
     @livewire('dashboard')
     @livewireScripts
+    <h1 class=""></h1>
 </body>
 </html>
